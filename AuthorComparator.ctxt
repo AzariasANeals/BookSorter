@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AuthorComparator
+comment0.text=\r\n\ This\ is\ the\ AuthorComparator,\ it\ implements\ Comparator<Book>.\r\n\ It\ will\ compare\ two\ books\ by\ the\ author.\r\n
+comment1.params=b1\ b2
+comment1.target=int\ compare(Book,\ Book)
+numComments=2

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=BookCatelogue
+comment0.text=\r\n\ This\ is\ the\ BookCatelogue\ class.\ It\ stores\ a\ library\ ArrayList.\ You\ can\ add\ Books\ to\ your\r\n\ library\ and\ store\ them\ together.\ You\ are\ able\ to\ display\ and\ sort\ the\ library\ in\ different\ ways.\r\n\ You\ can\ sort\ them\ by\ title,\ author,\ or\ the\ year\ order.\r\n
+comment1.params=
+comment1.target=BookCatelogue()
+comment2.params=book
+comment2.target=void\ addBook(Book)
+comment3.params=
+comment3.target=java.util.ArrayList\ getBooks()
+comment4.params=
+comment4.target=java.lang.String\ displayTitleOrder()
+comment5.params=
+comment5.target=java.lang.String\ displayAuthorOrder()
+comment6.params=
+comment6.target=java.lang.String\ displayYearOrder()
+comment7.params=
+comment7.target=java.util.ArrayList\ getCatelogue()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

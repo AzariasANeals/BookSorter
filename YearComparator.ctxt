@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=YearComparator
+comment0.text=\r\n\ This\ is\ the\ YearComparator,\ it\ implements\ Comparator<Book>.\ It\ will\ compare\r\n\ the\ publication\ year\ of\ two\ books.\r\n
+comment1.params=b1\ b2
+comment1.target=int\ compare(Book,\ Book)
+numComments=2

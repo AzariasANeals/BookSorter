@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\ \r\n\ \ \ \ This\ is\ my\ Main\ class.\r\n\ \r\n\ \ \ \ In\ order\ to\ run\ this\ program\ first\ create\ a\ selection\ of\ \r\n\ \ \ \ books.\ Then\ create\ a\ new\ BookCatelogue\ and\ add\ those\ books\ to\ it.\ You\ will\ then\ use\ \r\n\ \ \ \ System.out.println\ and\ choose\ to\ display\ the\ catelogue\ either\ by\ the\ title\ order,\ author\ order,\r\n\ \ \ \ or\ by\ the\ year\ order.\ If\ you\ do\ not\ specify\ it\ will\ always\ display\ the\ list\ in\ its\ current\ order.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
